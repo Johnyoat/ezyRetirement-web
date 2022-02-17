@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ezyretirements": {
+      "hosting": {
+        "ezyRetirement": [
+          "ezyretirements"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ezyretirements"
+  }
+}
